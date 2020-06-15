@@ -1,5 +1,5 @@
 ---
-title: Example note
+title: Cat's first note
 tags:
   - example
 emoji: 👋
