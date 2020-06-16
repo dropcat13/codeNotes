@@ -11,6 +11,7 @@ module.exports = {
         contentPath: 'notes',
         basePath: '/',
         showThemeInfo: false,
+        gitRepoContentPath: 'https://github.com/dropcat13/codenotes/tree/dev/notes/',
         showDescriptionInSidebar: true,
       },
     },
